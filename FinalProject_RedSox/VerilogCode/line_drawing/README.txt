@@ -1,0 +1,3 @@
+This folder exists to provide a separate folder with a sample top level verilog modules that can be used to learn or demo the draw_lines module. Note that this draw_lines_top is different than the draw_lines_top used in the cube rendering design.
+
+The draw lines module can be used to draw a line on a VGA display between any two points. Currently supports a resolution of 640x480. All components are parameterizable, but are untested outside of the default values.
